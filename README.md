@@ -11,7 +11,7 @@ fine-tune a pre-trained network provided by Keras.
 ### Overview
 The dataset you will be using contains images of pets.
 
-![dataset overview](../img-report/dataset-overview.png "Dataset OVeerview")
+![dataset overview](img-report/dataset-overview.png "Dataset OVeerview")
 
 You can download the dataset at the following URL: https://www.robots.ox.ac.uk/~vgg/data/pets/.
 
